@@ -1,0 +1,17 @@
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ProcessMonitor.exe
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ProcessMonitor.deps.json
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ProcessMonitor.runtimeconfig.json
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ProcessMonitor.dll
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ProcessMonitor.pdb
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.csproj.AssemblyReference.cache
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.AssemblyInfoInputs.cache
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.AssemblyInfo.cs
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.csproj.CoreCompileInputs.cache
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.dll
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\refint\ProcessMonitor.dll
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.pdb
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.genruntimeconfig.cache
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ref\ProcessMonitor.dll
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\Interop.IWshRuntimeLibrary.dll
+D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.csproj.ResolveComReference.cache
