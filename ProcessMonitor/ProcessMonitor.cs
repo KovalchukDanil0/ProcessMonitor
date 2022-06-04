@@ -55,6 +55,9 @@ namespace ProcessMonitor
         /// </summary>
         /// <param name="args">Given arguments to the program</param>
         /// <exception cref="Exception"></exception>
+
+        // !!! An example of a shortcut with arguments located in the ...\ProcessMonitor\ProcessMonitor\bin\Debug\net6.0\ folder
+
         static void Main(string[] args)
         {
             if (args.Length == 3)
@@ -140,7 +143,7 @@ namespace ProcessMonitor
                 if (args[1] != string.Empty && args[2] != string.Empty)
                 {
                     SetNumVariables(args[1], args[2], args);
-                    WriteColoredLine($"process name = {processName}, lifetime = {lifetime}, frequency check = {frequencyСheck}", ConsoleColor.Magenta);
+                    WriteColoredLine($"Process name = {processName}, lifetime = {lifetime}, frequency check = {frequencyСheck}", ConsoleColor.Magenta);
                 }
             }
             else
@@ -148,7 +151,7 @@ namespace ProcessMonitor
                 WriteColoredLine("Enter the process from the list above");
                 processName = Console.ReadLine() ?? processName;
 
-                SetNumVariables(WriteAndReadColLine("\nenter lifetime in minutes"), WriteAndReadColLine("\nenter frequency check in minutes"), args);
+                SetNumVariables(WriteAndReadColLine("\nEnter lifetime in minutes"), WriteAndReadColLine("\nEnter frequency check in minutes"), args);
             }
         }
 

@@ -13,5 +13,3 @@ D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\refin
 D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.pdb
 D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.genruntimeconfig.cache
 D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ref\ProcessMonitor.dll
-D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\Interop.IWshRuntimeLibrary.dll
-D:\Projects\VisualStudio\C#\ProcessMonitor\ProcessMonitor\obj\Debug\net6.0\ProcessMonitor.csproj.ResolveComReference.cache
