@@ -69,6 +69,10 @@
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.522.21309"
           },
+          "System.Linq.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21309"
+          },
           "System.ObjectModel.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.522.21309"
