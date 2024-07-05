@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Gomofob\\.nuget\\packages\\": {}
+    "/home/gomofob/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VisualStudio\\C#\\ProcessMonitor\\ProcessMonitor\\ProcessMonitor.csproj",
+      "projectUniqueName": "/home/gomofob/Documents/Projects/C#/ProcessMonitor/ProcessMonitor/ProcessMonitor.csproj",
       "projectName": "ProcessMonitor",
-      "projectPath": "D:\\Projects\\VisualStudio\\C#\\ProcessMonitor\\ProcessMonitor\\ProcessMonitor.csproj",
-      "packagesPath": "C:\\Users\\Gomofob\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VisualStudio\\C#\\ProcessMonitor\\ProcessMonitor\\obj\\",
+      "projectPath": "/home/gomofob/Documents/Projects/C#/ProcessMonitor/ProcessMonitor/ProcessMonitor.csproj",
+      "packagesPath": "/home/gomofob/.nuget/packages/",
+      "outputPath": "/home/gomofob/Documents/Projects/C#/ProcessMonitor/ProcessMonitor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gomofob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/gomofob/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,16 +49,31 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[6.0.31, 6.0.31]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.31, 6.0.31]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.106/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wpG8g5yJQoqSeoL34aKYfASP9jZXmCgpO8IDd3VJ5UPDPdVa+jqcJmaMhEa4Lm+aiFj8SLgvcHv8QqJ/9FCkTw==",
+  "dgSpecHash": "cpEWqQvcyh2vq/3h67fw+J5VoS4EWiRbeFlwSz1K8HropeaHD3YeSItsvUmt7YkIDozITK5f5+OHc1zbO0K4oA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VisualStudio\\C#\\ProcessMonitor\\ProcessMonitor\\ProcessMonitor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/gomofob/Documents/Projects/C#/ProcessMonitor/ProcessMonitor/ProcessMonitor.csproj",
+  "expectedPackageFiles": [
+    "/home/gomofob/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/gomofob/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/home/gomofob/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.31/microsoft.netcore.app.host.linux-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
